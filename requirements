@@ -5,4 +5,4 @@ scikit-learn
 keras
 googlenews
 textblob
-matplotlib
+matplotlib.pyplot
