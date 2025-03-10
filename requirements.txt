@@ -1,0 +1,7 @@
+yfinance
+plotly
+tensorflow
+scikit-learn
+keras
+googlenews
+textblob
