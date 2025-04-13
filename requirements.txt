@@ -5,3 +5,5 @@ scikit-learn
 keras
 googlenews
 textblob
+IterativeBase
+IterativeBacktest
