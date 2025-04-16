@@ -6,4 +6,4 @@ keras
 googlenews
 textblob
 matplotlib
-
+xgboost
