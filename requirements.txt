@@ -7,3 +7,4 @@ googlenews
 textblob
 matplotlib
 xgboost
+openpyxl
