@@ -1,6 +1,5 @@
 yfinance
 plotly
-tensorflow
 scikit-learn
 keras
 googlenews
@@ -8,4 +7,3 @@ textblob
 matplotlib
 xgboost
 openpyxl
-warnings
