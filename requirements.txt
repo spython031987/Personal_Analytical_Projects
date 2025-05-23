@@ -8,3 +8,4 @@ textblob
 matplotlib
 xgboost
 openpyxl
+warnings
